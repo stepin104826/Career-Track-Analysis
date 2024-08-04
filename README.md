@@ -1,8 +1,7 @@
 # Career Track Analysis Project
 
 ## Overview
-This project analyzes student engagement with career tracks on the 365 online learning platform. It focuses on enrollments and completions to provide insights for improving course offerings and student support.
-Analyzed the career track enrollments and completions of  students in an online learning platform (365) by retrieving data from an SQL database and visualized the results in Tableau.
+This project analyzes student engagement with career tracks on the 365 online learning platformby retrieving data from an SQL database and visualized the results in Tableau. It focuses on enrollments and completions to provide insights for improving course offerings and student support.
 
 ## Objective
 To analyze and visualize data on career track enrollments and completions, aiming to enhance educational services.
