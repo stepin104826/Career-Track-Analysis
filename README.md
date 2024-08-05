@@ -1,6 +1,8 @@
 # Career Track Analysis Project
-<img src="CareerAnalysis.png" alt="Your Logo" height="100" width="150" />  
+<img src="CareerAnalysis.png" alt="Your Logo" height="100" width="150" /> 
+
 ## Overview
+
 This project analyzes student engagement with career tracks on the 365 online learning platformby retrieving data from an SQL database and visualized the results in Tableau. It focuses on enrollments and completions to provide insights for improving course offerings and student support.
 
 ## Objective
